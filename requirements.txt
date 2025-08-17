@@ -9,4 +9,6 @@ python-json-logger==3.3.0
 requests==2.32.4
 Werkzeug==3.1.3
 gunicorn
+mysqlclient==2.2.4
+
 
